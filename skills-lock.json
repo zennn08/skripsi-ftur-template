@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "bahasa-skills": {
+      "source": "alvinindra/bahasa-skills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "8d6743deb1425cf119c8ed1f9cdade3e693e063568a7a1430bde5488a3325cc4"
+    },
+    "naskah-id": {
+      "source": "nothinx/naskah-id",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "11bcc6ccdf44c2d805b0b3f6de083fd059e0f11e806e1dd457261822b3660650"
+    }
+  }
+}

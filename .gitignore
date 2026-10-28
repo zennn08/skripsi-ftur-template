@@ -7,3 +7,7 @@
 
 # Pengaturan lokal Claude Code
 .claude/settings.local.json
+
+# Skill yang dipasang lewat `npx skills` (sumbernya dicatat di skills-lock.json)
+.agents/skills/
+.claude/skills/
