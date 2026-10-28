@@ -1,0 +1,9 @@
+# Log Playwright
+.playwright-mcp/
+
+# Berkas sementara Word
+~$*.docx
+*.tmp
+
+# Pengaturan lokal Claude Code
+.claude/settings.local.json

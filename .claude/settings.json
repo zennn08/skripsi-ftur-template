@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "bahasa-skills": {
+      "source": { "source": "github", "repo": "alvinindra/bahasa-skills" }
+    },
+    "naskah-id": {
+      "source": { "source": "github", "repo": "nothinx/naskah-id" }
+    }
+  },
+  "enabledPlugins": {
+    "bahasa-skills@bahasa-skills": true,
+    "naskah-id@naskah-id": true,
+    "playwright@claude-plugins-official": true
+  }
+}
